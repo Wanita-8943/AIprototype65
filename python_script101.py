@@ -3,11 +3,11 @@
 # แล้วให้เอา output ของ xt มารวมกัน แล้ว print ออกมา
 
 x = range(1, 100, 2)
-print(list(x))
-print(len(x))
+print('x = ',list(x))
+print('count:', (len(x)))
 
 xt = sum(x) 
-print(xt)
+print('sum = ', xt) 
 
 #------------------------------------------------------------------------------------
 
