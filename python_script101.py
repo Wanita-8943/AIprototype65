@@ -6,7 +6,7 @@ def parse_input():
     # parser.add_argument('n', type=int,help='value of N positional argument')    
     parser.add_argument('--x', type=int, required=True, help='value of x')
     parser.add_argument('--yval', type=int, default=3, help='value of y')
-
+    
     args = parser.parse_args()
     return args
 
@@ -24,6 +24,7 @@ if __name__ == "__main__":
 #     print_ones()
 
     # print(f'YVAL = {x.yval}')
+    print(f'     x = {(x.x)}')
     print(f'     xt = {(x.x)*2}')
     # print(f'm = {x.m}')
     # print(f'n = {x.n}')
