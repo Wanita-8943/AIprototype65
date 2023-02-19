@@ -24,3 +24,5 @@
 - CNNs for classification
 - AlexNet
 - Tensorflolw(network)
+
+## !(•̀ᴗ•́)و ̑̑ คาบที่ 6 ([13/02/66](https://github.com/Wanita-8943/AIprototype65/blob/main/%E0%B8%84%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%206.pdf))
