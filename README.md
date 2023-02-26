@@ -30,3 +30,8 @@
 - Python Scrip
 - Python Subprocess
 - HW1 ([Link](https://github.com/Wanita-8943/AIprototype65/blob/main/python_subprocess.py))
+
+## !(•̀ᴗ•́)و ̑̑ คาบที่ 7 ([20/02/66](https://github.com/Wanita-8943/AIprototype65/blob/main/%E0%B8%84%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%207.pdf))
+- [testflask.py](https://github.com/Wanita-8943/AIprototype65/blob/main/testflask.py)
+- [postrequests.py](https://github.com/Wanita-8943/AIprototype65/blob/main/postrequest.py)
+- [templates > home.html](https://github.com/Wanita-8943/AIprototype65/tree/main/templates)
