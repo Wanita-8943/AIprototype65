@@ -35,3 +35,14 @@
 - [testflask.py](https://github.com/Wanita-8943/AIprototype65/blob/main/testflask.py)
 - [postrequests.py](https://github.com/Wanita-8943/AIprototype65/blob/main/postrequest.py)
 - [templates > home.html](https://github.com/Wanita-8943/AIprototype65/tree/main/templates)
+
+## !(•̀ᴗ•́)و ̑̑ คาบที่ 8 ([27/02/66](https://github.com/Wanita-8943/Human_Age_Estimation_Through_Panoramic_Radiographs_Images_With_Deep_Neural_Network))
+- การทำ Web page
+
+## !(•̀ᴗ•́)و ̑̑ คาบที่ 9 ([14/03/66](https://github.com/tohnperfect/guts_video_visualization))
+- การทำ Web App
+
+
+## !(•̀ᴗ•́)و ̑̑  Final
+- [Web page](https://github.com/Wanita-8943/Human_Age_Estimation_Through_Panoramic_Radiographs_Images_With_Deep_Neural_Network)
+- [Web app](https://github.com/Wanita-8943/Web_app)
